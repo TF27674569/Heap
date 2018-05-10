@@ -50,6 +50,8 @@
 
     }
 ```
+![大顶堆](https://github.com/TF27674569/Heap/blob/master/image/add.png)
+
 #### 删除
 ```java
     public void deleteHeapTop() {
@@ -121,4 +123,4 @@
 
     }
 ```
-
+![大顶堆](https://github.com/TF27674569/Heap/blob/master/image/remove.png)
